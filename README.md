@@ -92,4 +92,4 @@ Entendimento básico de como a EVM funciona e noções de programação em Solid
 
 # 6. Carga Horária
 
-**Carga horária sugerida:** conforme a profundidade prática desejada.
+**Carga horária:** 4 horas
