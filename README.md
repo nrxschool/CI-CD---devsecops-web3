@@ -90,6 +90,15 @@ Entendimento básico de como a EVM funciona e noções de programação em Solid
 
 ---
 
+## Módulo 6 — Arquiteturas Corporativas e Ferramentas CI/CD
+
+- **Arquiteturas Corporativas e Ferramentas CI/CD:** Apresentação de arquiteturas corporativas e das principais ferramentas utilizadas em processos de CI/CD.
+- **O Pipeline do GitHub Actions:** Estruturação e funcionamento de pipelines utilizando o GitHub Actions.
+- **O Pipeline do GitLab CI:** Estruturação e funcionamento de pipelines utilizando o GitLab CI.
+- **Redes Permissionadas e a Ponte Transacional:** Conceitos de redes permissionadas e funcionamento de pontes transacionais aplicadas ao contexto Web3.
+
+---
+
 # 6. Carga Horária
 
 **Carga horária:** 4 horas
